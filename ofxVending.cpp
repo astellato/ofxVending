@@ -3,8 +3,9 @@
  *  ofxVendingExample
  *
  *  Created by Stellato, Anthony on 9/7/11.
- *  Copyright 2011 __MyCompanyName__. All rights reserved.
+ *  Copyright 2012 Arnold Worldwide.
  *
+ *  An addon for OF to interface with vending machines
  */
 
 #include "ofxVending.h"

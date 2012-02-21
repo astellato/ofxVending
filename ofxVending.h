@@ -3,9 +3,10 @@
  *  ofxVendingExample
  *
  *  Created by Stellato, Anthony on 9/7/11.
- *  Copyright 2011 Arnold Worldwide.
+ *  Copyright 2012 Arnold Worldwide.
  *
- *  An addon for the Upstate Networks PC2MDB SDK.
+ *  An addon for OF to interface with vending machines
+ *  https://github.com/astellato/ofxVending
  */
 
 #pragma once
