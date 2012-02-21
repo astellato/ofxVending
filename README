@@ -1,0 +1,6 @@
+ofxVending README
+
+Requires: ofxSimpleSerial - http://code.google.com/p/ofxsimpleserial/
+
+Description: An add-on for interfacing with vending machines.  In order to accomplish this you will need to find a piece of hardware that will let you treat MDB (the vending machine protocol) as a regular serial stream.
+For my projects I used the Upstate Networks PC2MDB, but other pieces of hardware would be possible, just not tested.
